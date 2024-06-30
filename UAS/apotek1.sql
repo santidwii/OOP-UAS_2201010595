@@ -1,0 +1,1 @@
+INSERT INTO `tb_kategori` (`id_kategori`, `nama_kategori`, `created_at`, `updated_at`) VALUES ('1', 'villa', NULL, NULL);s
